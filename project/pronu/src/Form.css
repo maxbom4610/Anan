@@ -1,0 +1,11 @@
+#continent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10;
+  }
+
+  .P {
+    margin : Auto;
+
+  }
